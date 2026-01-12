@@ -1,4 +1,4 @@
-# Location-Mapping
+# GeoPoint Mapper
 
 ## Overview
 Location Mapping is a simple web-based application that visualizes geographic locations using latitude and longitude on an interactive map. The project is developed as part of Task 1A.
